@@ -1,5 +1,5 @@
 # Case Insensitive YOURLS
-Makes YOURLS case insensitive
+Makes YOURLS case insensitive.  Tested and working with YOURLS 1.7.2.
 
 #### Example use cases:
 
